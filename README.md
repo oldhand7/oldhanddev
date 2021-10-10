@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome to my git profile.I am a Full Stack Developer with multiple, talented, creative. 
+### Hi there 👋, I am a Full Stack Developer with multiple, talented, creative. 
 <h2>Rich experience in Web Development</h2>
 
 - 🔭 Coming together is a beginning, Keeping together is a progress, Working together is a success.
