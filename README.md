@@ -1,7 +1,7 @@
 ### Hi there 👋, I am a Full Stack Developer with multiple, talented, creative. 
 <h2>Rich experience in Web Development</h2>
 
-- 🔭 Coming together is a beginning, Keeping together is a progress, Working together is a success.
+- 🔭 I will try to be rainbow in other's cloud, doing my best.
 - 🌱 Passionate about development and coding.
 - 👯 As the ideal candidate, I am highly motivated and focused on writing concise, replicable, readable and reusable code.
 - 🤔 Attention to detail, with a lot of common sense.
