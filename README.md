@@ -1,5 +1,5 @@
-### Hi there 👋, I am a Full Stack Developer with multiple, talented, creative. 
-<h2>Rich experience in Web Development</h2>
+### Hi there 👋, I am a Full Stack | Blockchain Expert with multiple, talented, creative. 
+<h2>Rich experience in Web | Blockchain</h2>
 
 - 🔭 I will try to be a rainbow in other's cloud, doing my best.
 - 🌱 Passionate about development and coding.
